@@ -1,4 +1,4 @@
-_OLÁ, EU SOU A ANA JÚLIA_
+_OLÁ, EU SOU A ANA JÚLIA!_
 ____________
   - 👩🏻‍💻 Cursando o 1º semestre de ciencias da computação
 
