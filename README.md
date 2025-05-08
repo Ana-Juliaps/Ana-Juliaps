@@ -11,7 +11,7 @@ ________________________________________________________________________________
 
 _MEIOS DE CONTATOS_
 
-  - [![image](https://github.com/user-attachments/assets/f60d3a42-5fde-4fa9-b366-577ab44531bd)
+[![image](https://github.com/user-attachments/assets/f60d3a42-5fde-4fa9-b366-577ab44531bd)
 LinkedIn](https://www.linkedin.com/in/ana-j%C3%BAlia-pereira-silva-92a59a364)
 
 
