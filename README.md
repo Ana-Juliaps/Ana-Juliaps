@@ -7,7 +7,7 @@
 
   - 😎 Curiosidades: Participei da competição nacional de robotica F1 in schools 2023 🏎
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ana-Juliaps&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ana-Juliaps&show_icons=true&theme=dracula)
 ________________________________________________________________________________________________________________
 
 ## _Meios de contato_
