@@ -6,12 +6,8 @@
   - 😄 Pronomes: Ela/dela
 
   - 😎 Curiosidades: Participei da competição nacional de robotica F1 in schools 2023 🏎
-
-<div>
-  <a href="https://github.com/Ana-Juliaps">
-  <img height="180em" src="http://github-readme-stars.vercel.app/api?username=Ana-Juliaps&show_icons=true&theme=dracula&inclue_all_commits=thue&count_private=true"/>
-  <img height="180em" src="http://github-readme-stars.vercel.app/api/top-langs/?username=Ana-Juliaps&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+#
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ana-Juliaps&show_icons=true&theme=radical)
 ________________________________________________________________________________________________________________
 
 ## _Meios de contato_
