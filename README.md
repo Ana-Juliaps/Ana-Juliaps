@@ -1,5 +1,5 @@
-# _Olá, eu sou a Ana Júlia!_
-**`👩🏻‍💻 Cursando o 3º semestre de ciencias da computação`**
+# 👩🏻‍💻 _Ana Júlia!_
+**`🖥️ Cursando o 3º semestre de ciencias da computação`**
 
 **`🖥 Tecnica em redes de computadores`**
   
