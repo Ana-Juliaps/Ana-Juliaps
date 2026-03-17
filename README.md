@@ -58,6 +58,8 @@
   <br/>
   <br/>
 
+  ---
+
   ### 📊 Estatísticas
 <div>
   <a href="https://github.com/Ana-Juliaps">
