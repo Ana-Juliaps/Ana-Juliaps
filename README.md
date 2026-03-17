@@ -64,5 +64,6 @@
 <div>
   <a href="https://github.com/Ana-Juliaps">
   <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=Ana-Juliaps&show_icons=true&theme=dracula"/>
+  <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Juliaps&layout=compact&langs_Count=16&theme=dracula"/>
 </div>
 
